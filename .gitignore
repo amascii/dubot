@@ -1,0 +1,8 @@
+node_modules
+temp
+config.json
+commands/boop.js
+commands/wc.js
+commands/bw.js
+commands/ls.js
+.DS_Store
